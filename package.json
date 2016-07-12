@@ -1,0 +1,26 @@
+{
+  "name": "zipapp",
+  "version": "1.0.0",
+  "description": "This is a sample zipcode app",
+  "main": "zipcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+	"zipcode" : "0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allisam/zipApp.git"
+  },
+  "keywords": [
+    "zipcode",
+    "zipapp"
+  ],
+  "author": "Alli Samson",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/allisam/zipApp/issues"
+  },
+  "homepage": "https://github.com/allisam/zipApp#readme"
+}
